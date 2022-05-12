@@ -1,6 +1,6 @@
 {
   "subjectArea" : {
-    "name" : "Sample Targets Lite",
+    "name" : "Sample Targets Lite"
     "description" : "Sample Subject Area for 11g Lite Sample Application (XML files sourced only).",
     "sourceBusinessModel" : "businessModel:SampleApp Lite",
     "implicitFactColumn" : "logicalColumn:SampleApp Lite.F0 Revenue Base Measures.Revenue",
