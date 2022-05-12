@@ -1,5 +1,4 @@
 {
-  "subjectArea" : {
     "name" : "Sample Targets Lite"
     "description" : "Sample Subject Area for 11g Lite Sample Application (XML files sourced only).",
     "sourceBusinessModel" : "businessModel:SampleApp Lite",
